@@ -1,0 +1,16 @@
+html,body{
+    margin:0;
+}
+header{
+    background-color: rgb(242, 128, 128);
+    display: flex;
+    justify-content: center;
+    
+}
+header>img{
+    height: 29px;
+}
+.h1-text{
+    font-size: small;
+    color: beige;
+}

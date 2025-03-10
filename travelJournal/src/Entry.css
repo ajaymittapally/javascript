@@ -1,0 +1,28 @@
+.journal-entry{
+    display: flex;
+}
+.main-img-container{
+    overflow: hidden;
+    height: 120px;
+    width: 160px;
+    flex-shrink: 0;
+    border-radius: 5px;
+    margin-right: 20px;
+}
+.main-img{
+   height: 100%;
+   width: 100%;
+   object-fit: cover;
+}
+.marker{
+    width: 7px;
+    margin-right: 4px;
+}
+
+.info-container span.country{
+    margin-right: 10px;
+}
+
+.container{
+    margin: 40px 45px;
+}
