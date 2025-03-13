@@ -1,0 +1,20 @@
+html,body{
+    margin:0;
+}
+header{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(224, 206, 182);
+    align-items: center;
+    gap: 11px;
+    height: 80px;
+    box-shadow: 0px 1px 3px 0px rgb(0,0,0,0.10), 0PX 1PX 2PX 0PX RGBA(0,0,0,0.10);
+}
+header>img{
+    height: 50px;
+
+}
+header>h1{
+    font-size: 30px;
+    font-weight: 400;
+}
