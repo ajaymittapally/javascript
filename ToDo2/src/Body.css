@@ -1,0 +1,8 @@
+.input-container{
+    display: flex;
+    flex-grow: 1;
+}
+.input-container.label{
+    font-size: xx-large;
+    font-weight: bold;
+}
